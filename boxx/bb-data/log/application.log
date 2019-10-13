@@ -1,0 +1,148 @@
+2019-10-10 12:07:36 INFO (6): Added new  email template #1
+2019-10-10 12:07:36 INFO (6): Added new  email template #2
+2019-10-10 12:07:36 INFO (6): Added new  email template #3
+2019-10-10 12:07:36 INFO (6): Added new  email template #4
+2019-10-10 12:07:36 INFO (6): Added new  email template #5
+2019-10-10 12:07:36 INFO (6): Added new  email template #6
+2019-10-10 12:07:36 INFO (6): Added new  email template #7
+2019-10-10 12:07:36 INFO (6): Added new  email template #8
+2019-10-10 12:07:36 INFO (6): Added new  email template #9
+2019-10-10 12:07:36 INFO (6): Added new  email template #10
+2019-10-10 12:07:36 INFO (6): Added new  email template #11
+2019-10-10 12:07:36 INFO (6): Added new  email template #12
+2019-10-10 12:07:36 INFO (6): Added new  email template #13
+2019-10-10 12:07:36 INFO (6): Added new  email template #14
+2019-10-10 12:07:36 INFO (6): Added new  email template #15
+2019-10-10 12:07:36 INFO (6): Added new  email template #16
+2019-10-10 12:07:36 INFO (6): Added new  email template #17
+2019-10-10 12:07:36 INFO (6): Added new  email template #18
+2019-10-10 12:07:36 INFO (6): Added new  email template #19
+2019-10-10 12:07:36 INFO (6): Added new  email template #20
+2019-10-10 12:07:36 INFO (6): Added new  email template #21
+2019-10-10 12:07:36 INFO (6): Added new  email template #22
+2019-10-10 12:07:36 INFO (6): Added new  email template #23
+2019-10-10 12:07:36 INFO (6): Added new  email template #24
+2019-10-10 12:07:36 INFO (6): Added new  email template #25
+2019-10-10 12:07:36 INFO (6): Added new  email template #26
+2019-10-10 12:07:36 INFO (6): Added new  email template #27
+2019-10-10 12:07:36 INFO (6): Added new  email template #28
+2019-10-10 12:07:36 INFO (6): Added new  email template #29
+2019-10-10 12:07:36 INFO (6): Added new  email template #30
+2019-10-10 12:07:36 INFO (6): Added new  email template #31
+2019-10-10 12:07:36 INFO (6): Added new  email template #32
+2019-10-10 12:07:36 INFO (6): Added new  email template #33
+2019-10-10 12:07:36 INFO (6): Added new  email template #34
+2019-10-10 12:07:36 INFO (6): Added new  email template #35
+2019-10-10 12:07:36 INFO (6): Added new  email template #36
+2019-10-10 12:07:36 INFO (6): Added new  email template #37
+2019-10-10 12:07:36 INFO (6): Added new  email template #38
+2019-10-10 12:07:36 INFO (6): Added new  email template #39
+2019-10-10 12:07:36 INFO (6): Added new  email template #40
+2019-10-10 12:07:36 INFO (6): Added new  email template #41
+2019-10-10 12:07:36 INFO (6): Added new  email template #42
+2019-10-10 12:07:36 INFO (6): Added new  email template #43
+2019-10-10 12:07:36 INFO (6): Added new  email template #44
+2019-10-10 12:07:36 INFO (6): Added new  email template #45
+2019-10-10 12:07:36 INFO (6): Added new  email template #46
+2019-10-10 12:07:36 INFO (6): Added new  email template #47
+2019-10-10 12:07:36 INFO (6): Generated email templates for installed extensions
+2019-10-10 12:10:33 INFO (6): Staff member 1 logged in
+2019-10-10 12:10:41 INFO (6): Installed new payment gateway PayLane
+2019-10-10 12:11:15 INFO (6): Updated payment gateway PayLane
+2019-10-10 12:11:47 INFO (6): Client #1 signed up
+2019-10-10 12:11:47 INFO (6): Client #1 logged in
+2019-10-10 12:12:05 INFO (6): Added "Domains registration and transfer" to shopping cart
+2019-10-10 12:12:09 INFO (6): Prepared new invoice "1"
+2019-10-10 12:12:09 INFO (6): Approved invoice "1"
+2019-10-10 12:12:09 INFO (6): Checked out shopping cart
+2019-10-10 12:12:20 INFO (6): Received transaction 1 from payment gateway 4
+2019-10-10 12:12:44 INFO (6): Received transaction 2 from payment gateway 4
+2019-10-10 12:24:56 INFO (6): Updated payment gateway PayLane
+2019-10-10 12:25:40 INFO (6): Logged out
+2019-10-10 12:36:57 INFO (6): Updated payment gateway PayLane
+2019-10-10 12:37:28 INFO (6): Client #1 logged in
+2019-10-10 12:37:43 INFO (6): Approved invoice "1"
+2019-10-10 12:37:43 INFO (6): Generated new renewal invoice #1
+2019-10-10 12:38:19 INFO (6): Received transaction 3 from payment gateway 4
+2019-10-10 12:43:04 INFO (6): Received transaction 4 from payment gateway 4
+2019-10-10 12:43:08 INFO (6): Received transaction 5 from payment gateway 4
+2019-10-10 12:43:12 INFO (6): Received transaction 6 from payment gateway 4
+2019-10-10 12:43:15 INFO (6): Received transaction 7 from payment gateway 4
+2019-10-10 12:44:30 INFO (6): Updated payment gateway PayPalEmail
+2019-10-10 12:44:53 INFO (6): Approved invoice "1"
+2019-10-10 12:44:53 INFO (6): Generated new renewal invoice #1
+2019-10-10 12:47:05 INFO (6): Received transaction 8 from payment gateway 4
+2019-10-10 12:52:27 INFO (6): Received transaction 9 from payment gateway 4
+2019-10-10 12:59:59 INFO (6): Received transaction 10 from payment gateway 4
+2019-10-10 13:00:06 INFO (6): Updated transaction #10
+2019-10-10 13:00:06 INFO (6): Updated transaction #10
+2019-10-10 13:00:06 INFO (6): Updated transaction #10
+2019-10-10 13:00:06 INFO (6): Updated transaction #10
+2019-10-10 13:00:07 INFO (6): Marked invoice "1" as paid
+2019-10-10 13:00:07 INFO (6): Cover invoice with client credits
+2019-10-10 13:00:07 INFO (6): Executed action to try cover unpaid invoices with client credits
+2019-10-10 13:00:07 INFO (6): Updated transaction #10
+2019-10-10 13:03:55 INFO (6): Approved invoice "2"
+2019-10-10 13:03:55 INFO (6): Generated new renewal invoice #2
+2019-10-10 13:04:07 INFO (6): Received transaction 11 from payment gateway 4
+2019-10-10 13:04:14 INFO (6): Updated transaction #11
+2019-10-10 13:04:14 INFO (6): Updated transaction #11
+2019-10-10 13:04:14 INFO (6): Updated transaction #11
+2019-10-10 13:04:14 INFO (6): Updated transaction #11
+2019-10-10 13:04:14 INFO (6): Marked invoice "2" as paid
+2019-10-10 13:04:14 INFO (6): Cover invoice with client credits
+2019-10-10 13:04:14 INFO (6): Executed action to try cover unpaid invoices with client credits
+2019-10-10 13:04:14 INFO (6): Updated transaction #11
+2019-10-10 13:22:36 INFO (6): Activated order #1
+2019-10-10 13:25:10 INFO (6): Added "Domains registration and transfer" to shopping cart
+2019-10-10 13:25:13 INFO (6): Prepared new invoice "3"
+2019-10-10 13:25:13 INFO (6): Approved invoice "3"
+2019-10-10 13:25:13 INFO (6): Checked out shopping cart
+2019-10-10 13:47:47 INFO (6): Client #1 logged in
+2019-10-10 13:47:57 INFO (6): Approved invoice "3"
+2019-10-10 13:47:57 INFO (6): Generated new renewal invoice #3
+2019-10-10 13:49:16 INFO (6): Approved invoice "3"
+2019-10-10 13:49:16 INFO (6): Generated new renewal invoice #3
+2019-10-10 13:49:22 INFO (6): Approved invoice "3"
+2019-10-10 13:49:22 INFO (6): Generated new renewal invoice #3
+2019-10-10 13:49:29 INFO (6): Approved invoice "3"
+2019-10-10 13:49:29 INFO (6): Generated new renewal invoice #3
+2019-10-10 14:14:59 INFO (6): Received transaction 12 from payment gateway 4
+2019-10-10 14:15:08 INFO (6): Updated transaction #12
+2019-10-10 14:15:08 INFO (6): Updated transaction #12
+2019-10-10 14:15:08 INFO (6): Updated transaction #12
+2019-10-10 14:15:08 INFO (6): Updated transaction #12
+2019-10-10 14:15:09 INFO (6): Marked invoice "3" as paid
+2019-10-10 14:15:09 INFO (6): Cover invoice with client credits
+2019-10-10 14:15:09 INFO (6): Executed action to try cover unpaid invoices with client credits
+2019-10-10 14:15:09 INFO (6): Updated transaction #12
+2019-10-10 14:25:54 INFO (6): Added "Domains registration and transfer" to shopping cart
+2019-10-10 14:25:56 INFO (6): Prepared new invoice "4"
+2019-10-10 14:25:56 INFO (6): Approved invoice "4"
+2019-10-10 14:25:56 INFO (6): Checked out shopping cart
+2019-10-10 14:26:09 INFO (6): Received transaction 13 from payment gateway 4
+2019-10-10 14:26:15 INFO (6): Updated transaction #13
+2019-10-10 14:26:15 INFO (6): Updated transaction #13
+2019-10-10 14:26:15 INFO (6): Updated transaction #13
+2019-10-10 14:26:15 INFO (6): Updated transaction #13
+2019-10-10 14:26:15 INFO (6): Marked invoice "4" as paid
+2019-10-10 14:26:15 INFO (6): Cover invoice with client credits
+2019-10-10 14:26:15 INFO (6): Executed action to try cover unpaid invoices with client credits
+2019-10-10 14:26:15 INFO (6): Updated transaction #13
+2019-10-10 15:05:47 INFO (6): Added "Domains registration and transfer" to shopping cart
+2019-10-10 15:06:17 INFO (6): Added "Domains registration and transfer" to shopping cart
+2019-10-10 15:06:46 INFO (6): Prepared new invoice "5"
+2019-10-10 15:06:46 INFO (6): Approved invoice "5"
+2019-10-10 15:06:46 INFO (6): Checked out shopping cart
+2019-10-10 15:09:01 INFO (6): Added "Domains registration and transfer" to shopping cart
+2019-10-10 15:09:04 INFO (6): Prepared new invoice "6"
+2019-10-10 15:09:04 INFO (6): Approved invoice "6"
+2019-10-10 15:09:04 INFO (6): Checked out shopping cart
+2019-10-10 15:09:36 INFO (6): Installed new payment gateway AliPay
+2019-10-10 15:10:09 INFO (6): Updated payment gateway AlertPay
+2019-10-10 15:10:35 INFO (6): Added "Domains registration and transfer" to shopping cart
+2019-10-10 15:10:38 INFO (6): Prepared new invoice "7"
+2019-10-10 15:10:38 INFO (6): Approved invoice "7"
+2019-10-10 15:10:38 INFO (6): Checked out shopping cart
+2019-10-10 15:10:38 INFO (6): Went to pay for invoice #7 via AlertPay
+2019-10-10 15:10:38 INFO (6): Went to pay for invoice #7 via AlertPay

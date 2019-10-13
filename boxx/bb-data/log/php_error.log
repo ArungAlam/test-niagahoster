@@ -1,0 +1,52 @@
+[10-Oct-2019 12:10:33 UTC] 
+[10-Oct-2019 12:37:38 UTC] Order #1 has no active service
+[10-Oct-2019 12:43:04 UTC] 2 include(/opt/lampp/htdocs/boxx/bb-library/Payment/PayLaneRestClient.php): failed to open stream: No such file or directory /opt/lampp/htdocs/boxx/bb-vendor/composer/ClassLoader.php 412
+[10-Oct-2019 12:43:04 UTC] 2 include(): Failed opening '/opt/lampp/htdocs/boxx/bb-library/Payment/PayLaneRestClient.php' for inclusion (include_path='.:/opt/lampp/lib/php') /opt/lampp/htdocs/boxx/bb-vendor/composer/ClassLoader.php 412
+[10-Oct-2019 12:43:08 UTC] 2 include(/opt/lampp/htdocs/boxx/bb-library/Payment/PayLaneRestClient.php): failed to open stream: No such file or directory /opt/lampp/htdocs/boxx/bb-vendor/composer/ClassLoader.php 412
+[10-Oct-2019 12:43:08 UTC] 2 include(): Failed opening '/opt/lampp/htdocs/boxx/bb-library/Payment/PayLaneRestClient.php' for inclusion (include_path='.:/opt/lampp/lib/php') /opt/lampp/htdocs/boxx/bb-vendor/composer/ClassLoader.php 412
+[10-Oct-2019 12:43:12 UTC] 2 include(/opt/lampp/htdocs/boxx/bb-library/Payment/PayLaneRestClient.php): failed to open stream: No such file or directory /opt/lampp/htdocs/boxx/bb-vendor/composer/ClassLoader.php 412
+[10-Oct-2019 12:43:12 UTC] 2 include(): Failed opening '/opt/lampp/htdocs/boxx/bb-library/Payment/PayLaneRestClient.php' for inclusion (include_path='.:/opt/lampp/lib/php') /opt/lampp/htdocs/boxx/bb-vendor/composer/ClassLoader.php 412
+[10-Oct-2019 12:43:15 UTC] 2 include(/opt/lampp/htdocs/boxx/bb-library/Payment/PayLaneRestClient.php): failed to open stream: No such file or directory /opt/lampp/htdocs/boxx/bb-vendor/composer/ClassLoader.php 412
+[10-Oct-2019 12:43:15 UTC] 2 include(): Failed opening '/opt/lampp/htdocs/boxx/bb-library/Payment/PayLaneRestClient.php' for inclusion (include_path='.:/opt/lampp/lib/php') /opt/lampp/htdocs/boxx/bb-vendor/composer/ClassLoader.php 412
+[10-Oct-2019 12:43:21 UTC] Order #1 has no active service
+[10-Oct-2019 12:44:47 UTC] Order #1 has no active service
+[10-Oct-2019 12:47:05 UTC] 2 include(/opt/lampp/htdocs/boxx/bb-library/Payment/PayLaneRestClient.php): failed to open stream: No such file or directory /opt/lampp/htdocs/boxx/bb-vendor/composer/ClassLoader.php 412
+[10-Oct-2019 12:47:05 UTC] 2 include(): Failed opening '/opt/lampp/htdocs/boxx/bb-library/Payment/PayLaneRestClient.php' for inclusion (include_path='.:/opt/lampp/lib/php') /opt/lampp/htdocs/boxx/bb-vendor/composer/ClassLoader.php 412
+[10-Oct-2019 12:52:27 UTC] 2 include(/opt/lampp/htdocs/boxx/bb-library/Payment/PayLaneRestClient.php): failed to open stream: No such file or directory /opt/lampp/htdocs/boxx/bb-vendor/composer/ClassLoader.php 412
+[10-Oct-2019 12:52:27 UTC] 2 include(): Failed opening '/opt/lampp/htdocs/boxx/bb-library/Payment/PayLaneRestClient.php' for inclusion (include_path='.:/opt/lampp/lib/php') /opt/lampp/htdocs/boxx/bb-vendor/composer/ClassLoader.php 412
+[10-Oct-2019 13:00:06 UTC] 8 Undefined index: txn_id /opt/lampp/htdocs/boxx/bb-library/Payment/Adapter/PayLane.php 272
+[10-Oct-2019 13:00:06 UTC] 8 Undefined index: payment_status /opt/lampp/htdocs/boxx/bb-library/Payment/Adapter/PayLane.php 273
+[10-Oct-2019 13:00:06 UTC] 8 Undefined index: txn_type /opt/lampp/htdocs/boxx/bb-library/Payment/Adapter/PayLane.php 274
+[10-Oct-2019 13:00:06 UTC] 8 Undefined index: mc_gross /opt/lampp/htdocs/boxx/bb-library/Payment/Adapter/PayLane.php 275
+[10-Oct-2019 13:03:49 UTC] Order #1 has no active service
+[10-Oct-2019 13:04:14 UTC] 8 Undefined index: txn_id /opt/lampp/htdocs/boxx/bb-library/Payment/Adapter/PayLane.php 272
+[10-Oct-2019 13:04:14 UTC] 8 Undefined index: payment_status /opt/lampp/htdocs/boxx/bb-library/Payment/Adapter/PayLane.php 273
+[10-Oct-2019 13:04:14 UTC] 8 Undefined index: txn_type /opt/lampp/htdocs/boxx/bb-library/Payment/Adapter/PayLane.php 274
+[10-Oct-2019 13:04:14 UTC] 8 Undefined index: mc_gross /opt/lampp/htdocs/boxx/bb-library/Payment/Adapter/PayLane.php 275
+[10-Oct-2019 13:21:32 UTC] 8 Array to string conversion /opt/lampp/htdocs/boxx/bb-data/cache/11/60/6b3241dbaa22b236492df759748fbe23549554ada8eca34e0c3b48b851e1.php 598
+[10-Oct-2019 13:21:32 UTC] 8 Array to string conversion /opt/lampp/htdocs/boxx/bb-data/cache/11/60/6b3241dbaa22b236492df759748fbe23549554ada8eca34e0c3b48b851e1.php 598
+[10-Oct-2019 13:21:32 UTC] 8 Array to string conversion /opt/lampp/htdocs/boxx/bb-data/cache/11/60/6b3241dbaa22b236492df759748fbe23549554ada8eca34e0c3b48b851e1.php 598
+[10-Oct-2019 13:21:35 UTC] 
+[10-Oct-2019 13:21:35 UTC] Unable to find template "layout_blank.phtml" (looked into: /opt/lampp/htdocs/boxx/bb-themes/huraga/html, /opt/lampp/htdocs/boxx/bb-modules/Blank.phtml/html_client) in "mod_invoice_index.phtml".
+[10-Oct-2019 13:21:38 UTC] Unable to find template "layout_blank.phtml" (looked into: /opt/lampp/htdocs/boxx/bb-themes/huraga/html, /opt/lampp/htdocs/boxx/bb-modules/Blank.phtml/html_client) in "mod_invoice_index.phtml".
+[10-Oct-2019 13:21:58 UTC] 8 Array to string conversion /opt/lampp/htdocs/boxx/bb-data/cache/11/60/6b3241dbaa22b236492df759748fbe23549554ada8eca34e0c3b48b851e1.php 598
+[10-Oct-2019 13:21:58 UTC] 8 Array to string conversion /opt/lampp/htdocs/boxx/bb-data/cache/11/60/6b3241dbaa22b236492df759748fbe23549554ada8eca34e0c3b48b851e1.php 598
+[10-Oct-2019 13:21:58 UTC] 8 Array to string conversion /opt/lampp/htdocs/boxx/bb-data/cache/11/60/6b3241dbaa22b236492df759748fbe23549554ada8eca34e0c3b48b851e1.php 598
+[10-Oct-2019 13:22:01 UTC] Unable to find template "layout_blank.phtml" (looked into: /opt/lampp/htdocs/boxx/bb-themes/huraga/html, /opt/lampp/htdocs/boxx/bb-modules/Blank.phtml/html_client) in "mod_invoice_index.phtml".
+[10-Oct-2019 13:22:32 UTC] Order #1 has no active service
+[10-Oct-2019 13:47:54 UTC] Order #2 has no active service
+[10-Oct-2019 13:49:12 UTC] Order #2 has no active service
+[10-Oct-2019 13:49:19 UTC] Order #2 has no active service
+[10-Oct-2019 13:49:25 UTC] Order #2 has no active service
+[10-Oct-2019 13:49:26 UTC] Order #2 has no active service
+[10-Oct-2019 14:15:08 UTC] 8 Undefined index: txn_id /opt/lampp/htdocs/boxx/bb-library/Payment/Adapter/PayLane.php 272
+[10-Oct-2019 14:15:08 UTC] 8 Undefined index: payment_status /opt/lampp/htdocs/boxx/bb-library/Payment/Adapter/PayLane.php 273
+[10-Oct-2019 14:15:08 UTC] 8 Undefined index: txn_type /opt/lampp/htdocs/boxx/bb-library/Payment/Adapter/PayLane.php 274
+[10-Oct-2019 14:15:08 UTC] 8 Undefined index: mc_gross /opt/lampp/htdocs/boxx/bb-library/Payment/Adapter/PayLane.php 275
+[10-Oct-2019 14:25:49 UTC] 
+[10-Oct-2019 14:26:15 UTC] 8 Undefined index: txn_id /opt/lampp/htdocs/boxx/bb-library/Payment/Adapter/PayLane.php 272
+[10-Oct-2019 14:26:15 UTC] 8 Undefined index: payment_status /opt/lampp/htdocs/boxx/bb-library/Payment/Adapter/PayLane.php 273
+[10-Oct-2019 14:26:15 UTC] 8 Undefined index: txn_type /opt/lampp/htdocs/boxx/bb-library/Payment/Adapter/PayLane.php 274
+[10-Oct-2019 14:26:15 UTC] 8 Undefined index: mc_gross /opt/lampp/htdocs/boxx/bb-library/Payment/Adapter/PayLane.php 275
+[10-Oct-2019 15:05:39 UTC] Domain name  is not valid 0
+[10-Oct-2019 15:05:43 UTC] Years parameter is missing for domain configuration. 0
